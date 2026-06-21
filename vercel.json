@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/DATE%20QUEST%20(offline).html"
+      "destination": "/date-with-js.html"
     }
   ]
 }
