@@ -413,7 +413,7 @@ p {
 .no-button {
   background: #ffffff;
   color: rgba(24, 34, 53, 0.58);
-  animation: noButtonBlink 380ms ease-in-out infinite;
+  animation: noButtonBlink 760ms ease-in-out infinite;
 }
 
 .yes-button:active,
